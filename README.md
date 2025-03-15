@@ -29,7 +29,7 @@ The system is optimised for low latency, making it ideal for live translation sc
 
 # :pray:Acknowledgments
 This project would not be possible without the contributions of the following:
-- **whisper_real_time** (:link:https://github.com/davabase/whisper_real_time)
-- **CTranslate2** (:link:https://github.com/OpenNMT/CTranslate2)
+-🔗 [whisper_real_time](https://github.com/davabase/whisper_real_time)  
+-🔗 [CTranslate2](https://github.com/OpenNMT/CTranslate2)
 - **SentencePiece**
 - **Amazon Polly**
